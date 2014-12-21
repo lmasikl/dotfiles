@@ -21,10 +21,10 @@ imap <F5> <Esc>:tabprev<CR>i
 map <F5> <Esc>:tabprev<CR>
 imap <F6> <Esc>:tabnext<CR>i
 map <F6> <Esc>:tabnext<CR>
-imap [ []<LEFT>
-imap ( ()<LEFT>
-imap { {}<LEFT>
-imap # # 
+#imap [ []<LEFT>
+#imap ( ()<LEFT>
+#imap { {}<LEFT>
+#imap # # 
 inoremap <C-f> <C-x><C-f>
 " Кодировки
 set wildmenu
